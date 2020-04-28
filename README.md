@@ -1,3 +1,3 @@
 # flask_test
-Flask WSGI tests
+Flask WSGI tests.
  DO NOT DEPLOY ON PRODUCTION
